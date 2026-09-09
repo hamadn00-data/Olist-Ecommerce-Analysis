@@ -16,6 +16,7 @@ The project follows an end-to-end data analytics workflow using Python, SQL, and
   - SciPy
   - Scikit-learn
 - SQL
+- Excel
 - Power BI
 - DAX
 - Jupyter Notebook
