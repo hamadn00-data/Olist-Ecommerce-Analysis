@@ -53,7 +53,7 @@ Python was used to:
 
 Notebook:
 
-`python/olist_data_cleaning_and_eda.ipynb`
+`Python/Olist_data_cleaning_&_eda.ipynb`
 
 ## SQL Analysis
 
@@ -74,7 +74,7 @@ SQL was used to answer business questions related to:
 
 SQL queries:
 
-`sql/olist_analysis.sql`
+`sql/Brazilian_olist_ecommerce_analysis.sql`
 
 ## Power BI Dashboard
 
@@ -119,15 +119,15 @@ The `.pbix` file is hosted externally because of GitHub file-size limitations.
 
 ### Executive Sales Overview
 
-![Executive Sales Overview](Screenshots/page1_executive_overview.png)
+![Executive Sales Overview](Screenshots/page1_executive_overview.PNG)
 
 ### Customer & Product Analysis
 
-![Customer & Product Analysis](Screenshots/page2_customer_product.png)
+![Customer & Product Analysis](Screenshots/page2_customer_product.PNG)
 
 ### Operations & Customer Experience
 
-![Operations & Customer Experience](Screenshots/page3_operations.png)
+![Operations & Customer Experience](Screenshots/page3_operations.PNG)
 
 ## Key Business Questions
 
@@ -154,17 +154,17 @@ Olist-Ecommerce-Analysis/
 │   └── cleaned/
 │
 ├── python/
-│   └── olist_data_cleaning_and_eda.ipynb
+│   └── Olist_data_cleaning_&_eda.ipynb
 │
 ├── sql/
-│   └── olist_analysis.sql
+│   └── Brazilian_olist_ecommerce_analysis.sql
 │
 ├── powerbi/
 │   └── README.md
 │
-├── screenshots/
-│   ├── page1_executive_overview.png
-│   ├── page2_customer_product.png
-│   └── page3_operations.png
+├── Screenshots/
+│   ├── page1_executive_overview.PNG
+│   ├── page2_customer_product.PNG
+│   └── page3_operations.PNG
 │
 └── README.md
